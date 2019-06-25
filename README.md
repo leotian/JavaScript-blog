@@ -24,9 +24,9 @@
 
 ## 我看ECMAScript 6 入门
 
-个人感觉阮一峰的[ECMAScript 6入门](http://es6.ruanyifeng.com/)有些过于细致，这里是个人总结的精简版。
+个人感觉阮一峰的[ECMAScript 6入门](http://es6.ruanyifeng.com/)有些过于细致，这里是个人总结的精简版和补充改进。
 
-- ### 变量的声明和赋值
+- ### [变量及作用域]([https://github.com/leotian/JavaScript-blog/blob/master/docs/es6/%E5%8F%98%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E5%92%8C%E8%B5%8B%E5%80%BC.md](https://github.com/leotian/JavaScript-blog/blob/master/docs/es6/变量的声明和赋值.md))
 
 - ### 字符串的拓展
 
